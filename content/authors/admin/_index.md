@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Leena C Vankadara
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,36 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: International Max Planck Research School for Intelligent Systems
+  url: "https://www.is.mpg.de/person/lchennuru"
+- name: University of Tuebingen
+  url: "http://www.tml.cs.uni-tuebingen.de/team/leena_chennuru/index.php"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a first year Ph.D. candidate in the area of Statistical learning theory.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Statistical and computational limits of learning.
+- Non-parametric analyses.
+- Understanding Generalization.
+- Kernel machines.
+- Concentration inequalities.
+- Unsupervised learning.
+
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Statistical Learning Theory
+    institution: International Max Planck Research School for Intelligent Systems.
+    year: December 2018 -
+  - course: Masters in Intelligent Adaptive Systems
+    institution: University of Hamburg.
+  - course: Masters in Mathematics, Bachelors in Mechanical Engineering
+    institution: Birla Institute of Technology and Sciences, Pilani.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,10 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: "mailto:leena.chennuru-vankadara@uni-tuebingen.de"  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
