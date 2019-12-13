@@ -18,7 +18,14 @@ publication_types: ["1"]
 publication: Master thesis
 #publication_short: In *NeurIPS 2018*
 
-abstract: In this thesis, we initiate and perform an extensive study of the theory of metric embeddings in the context of Machine Learning. We begin by asking three questions that are fundamental to any systematic study of the theory of metric embeddings. 1)What is the objective of an embedding in the context of Machine Learning? 2)What is a good evaluation metric for an embedding? 3)Given any metric space, what guarantees can be provided on the best possible dimension that can be achieved for embeddings of high quality into a well structured space? In addition to providing preliminary answers to these questions, we also provide an assessment of the desirable properties required of a measure of the quality of an embedding (distortion). We show that the existing measures of distortion are ineffective in the context of Machine Learning and propose a novel measure of distortion, which we refer to as $\sigma$-distortion in order to overcome the limitations of the existing measures while retaining most of the desirable properties.
+abstract:
+{{< rawhtml >}}
+<div style="text-align: justify">
+
+In this thesis, we initiate and perform an extensive study of the theory of metric embeddings in the context of Machine Learning. We begin by asking three questions that are fundamental to any systematic study of the theory of metric embeddings. 1)What is the objective of an embedding in the context of Machine Learning? 2)What is a good evaluation metric for an embedding? 3)Given any metric space, what guarantees can be provided on the best possible dimension that can be achieved for embeddings of high quality into a well structured space? In addition to providing preliminary answers to these questions, we also provide an assessment of the desirable properties required of a measure of the quality of an embedding (distortion). We show that the existing measures of distortion are ineffective in the context of Machine Learning and propose a novel measure of distortion, which we refer to as $\sigma$-distortion in order to overcome the limitations of the existing measures while retaining most of the desirable properties.
+
+{{< /rawhtml >}}
+</div>
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
