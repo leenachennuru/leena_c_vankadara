@@ -33,9 +33,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Theory of Machine learning
+  - course: PhD in Statistical learning theory
     institution: International Max Planck Research School for Intelligent Systems.
-    year: Since December 2018.
+    year: since December 2018.
   - course: Masters in Intelligent Adaptive Systems
     institution: University of Hamburg.
   - course: Masters in Mathematics, Bachelors in Mechanical Engineering
@@ -51,7 +51,7 @@ social:
   link: "mailto:leena.chennuru-vankadara@uni-tuebingen.de"  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=VBYgZXcAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
   link: https://github.com/leenachennuru
