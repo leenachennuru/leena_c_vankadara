@@ -23,19 +23,19 @@ organizations:
 bio: I am a first year Ph.D. candidate in the area of Statistical learning theory.
 
 interests:
-- Statistical and computational limits of learning.
-- Non-parametric analyses.
-- Understanding Generalization.
-- Kernel machines.
-- Concentration inequalities.
+- Statistical and computational limits of learning,
+- Non-parametric analyses,
+- Understanding Generalization,
+- Kernel machines,
+- Concentration inequalities,
 - Unsupervised learning.
 
 
 education:
   courses:
-  - course: PhD in Statistical Learning Theory
+  - course: PhD in Theory of Machine learning
     institution: International Max Planck Research School for Intelligent Systems.
-    year: December 2018 -
+    year: Since December 2018.
   - course: Masters in Intelligent Adaptive Systems
     institution: University of Hamburg.
   - course: Masters in Mathematics, Bachelors in Mechanical Engineering
@@ -54,7 +54,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/leenachennuru
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
