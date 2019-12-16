@@ -7,7 +7,10 @@
 #   name = "Demo"
 #   url = "#hero"
 #   weight = 10
-
+[[main]]
+  name = "About"
+  url = "#about"
+  weight = 10
 
 [[main]]
   name = "Projects"
@@ -19,15 +22,15 @@
   url = "#publications"
   weight = 30
 
-[[main]]
-  name = "Interests"
-  url = "interests/"
-  weight = 40
+# [[main]]
+#   name = "Interests"
+#   url = "interests/"
+#   weight = 40
 
-[[main]]
-  name = "Blog"
-  url = "#posts"
-  weight = 50
+# [[main]]
+#   name = "Blog"
+#   url = "#posts"
+#   weight = 50
 
 [[main]]
   name = "Contact"
