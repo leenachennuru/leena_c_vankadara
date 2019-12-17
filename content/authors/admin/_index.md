@@ -23,12 +23,11 @@ organizations:
 bio: I am a first year Ph.D. candidate in the area of Statistical learning theory.
 
 interests:
-- Statistical and computational limits of learning,
-- Non-parametric analyses,
-- Understanding Generalization,
+- Statistical vs computational limits of learning,
+- Learning theory,
 - Kernel machines,
-- Concentration inequalities,
-- Unsupervised learning.
+- Non-parametric statistics,
+- Deep learning.
 
 
 education:
@@ -62,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "leena.chennuru-vankadara[at]uni-tuebingen.de"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,3 +69,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
+I am a first year Ph.D. candidate in the [International Max Planck Research School for Intelligent Systems](https://imprs.is.mpg.de/ "IMPRS-IS"). I am jointly supervised by [Prof.Debarghya Ghoshdastidar](https://www.in.tum.de/tfai/people/debarghya-ghoshdastidar/ "Debarghya's Homepage") at the Theoretical Foundations of Artificial Intelligence group, Technical University of Munich and [Prof.Dr.Ulrike von Luxburg](https://www.tml.cs.uni-tuebingen.de/team/luxburg/ "Ulrike's Homepage") at the Theory of Machine learning group, University of Tuebingen.
