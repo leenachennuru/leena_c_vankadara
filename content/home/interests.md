@@ -49,7 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-### Equality of opportunity
+### Equal opportunity
 {{< rawhtml >}}
 <div style="text-align: justify">
 I deeply care about issues concerning equal access to opportunities irrespective of socio-economic status and I constantly try to engage in discussions and initiatives aimed at addressing them. I am a part of an amazing group of female researchers who are committed to improving the representation of women in STEM research. You can read more about this initiative <a href="https://www.wisr.in/">here</a>.
