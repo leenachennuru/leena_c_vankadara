@@ -50,7 +50,16 @@ subtitle = ""
  css_class = ""
 +++
 ### Equality of opportunity
-I deeply care about issues concerning equal access to opportunities and I constantly try to engage in discussions and initiatives aimed at addressing them. I am a part of an amazing group of female researchers who are committed to improving the representation of women in STEM research. You can read more about this initiative [here](https://www.wisr.in/).
+{{< rawhtml >}}
+<div style="text-align: justify">
+I deeply care about issues concerning equal access to opportunities irrespective of socio-economic status and I constantly try to engage in discussions and initiatives aimed at addressing them. I am a part of an amazing group of female researchers who are committed to improving the representation of women in STEM research. You can read more about this initiative <a href="https://www.wisr.in/">here</a>.
+{{< /rawhtml >}}
+</div>
 
 ### Climate change
-I am actively looking for projects aimed at alleviating the problem of Climate change through Machine learning tools. If you are interested in this, take a look at the recent workshop [Tackling Climate Change with Machine Learning](https://www.climatechange.ai/NeurIPS2019_workshop.html) at NeurIPS 2019.
+
+{{< rawhtml >}}
+<div style="text-align: justify">
+I am actively looking for projects aimed at alleviating the problem of Climate change through Machine learning tools. If you are interested in this, take a look at the recent workshop <a href="https://www.climatechange.ai/NeurIPS2019_workshop.html">Tackling Climate Change with Machine Learning</a> at NeurIPS 2019.
+{{< /rawhtml >}}
+</div>
