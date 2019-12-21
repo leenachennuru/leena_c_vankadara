@@ -9,7 +9,7 @@ summary: Worked on the design, research and implementation of an interactive Rob
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2015-10-01T13:00:00Z"
+date: "2015-09-01T13:00:00Z"
 date_end: "2016-03-01T15:00:00Z"
 all_day: true
 
@@ -25,6 +25,9 @@ featured: false
 image:
   caption: 'IRMA'
   focal_point: Right
+
+links:
+url_pdf: https://www2.informatik.uni-hamburg.de/wtm/publications/2016/WTGHAKCREJCWBSHNSTW16/Wieser_KI2016_CR.pdf
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

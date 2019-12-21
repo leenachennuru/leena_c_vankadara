@@ -32,7 +32,7 @@ tags:
 featured: false
 
 links:
-url_pdf: publication/deep_ordinal_embedding.pdf
+url_pdf: https://arxiv.org/abs/1912.01666
 #url_project: ''
 
 # Featured image
