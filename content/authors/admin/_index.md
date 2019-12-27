@@ -74,7 +74,7 @@ user_groups:
 
 I am a first year Ph.D. candidate in the <a href="https://imprs.is.mpg.de/">International Max Planck Research School for Intelligent Systems</a>. I am jointly supervised by <a href="
 https://www.in.tum.de/tfai/people/debarghya-ghoshdastidar/">Prof.Debarghya Ghoshdastidar</a> at the Theoretical Foundations of Artificial Intelligence group, Technical University of Munich and <a href="
-https://www.tml.cs.uni-tuebingen.de/team/luxburg/">Prof.Dr.Ulrike von Luxburg</a> at the Theory of Machine learning group, University of Tuebingen. For an overview of my current work, please see <a href="https://www.leenacvankadara.com/#projects">my projects</a>
+http://www.tml.cs.uni-tuebingen.de/team/luxburg/index.php">Prof.Dr.Ulrike von Luxburg</a> at the Theory of Machine learning group, University of Tuebingen. For an overview of my current work, please see <a href="https://www.leenacvankadara.com/#projects">my projects</a>
 
 {{< /rawhtml >}}
 </div>

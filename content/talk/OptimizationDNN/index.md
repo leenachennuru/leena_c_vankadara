@@ -48,7 +48,7 @@ math: true
 {{< rawhtml >}}
 <div style="text-align: justify">
 
- The analysis presented in the paper is two fold. 1) Recent literature shows that the critical point behaviour of a randomly chosen high-dimensional landscape is riddled with saddle points in contrast to a low dimensional one. Several algorithms that are employed in optimization of loss surfaces arising in training deep neural networks: RMSPROP, ADAGRAD, Momentum based Gradient Descent, Hessain Free optimization, Conjugate gradient descent, Natural gradient descent, Newtons method and Krylov's subspace method were analyzed for their behaviour around saddle points. 2) In the overfitting paradigm, unsupervised pre-taining has been studied for its ability to prevent overfitting and its ability to provide the network with a good initialisation.  
+ The analysis presented in the paper is two fold. 1) Recent literature shows that the critical point behaviour of a randomly chosen high-dimensional landscape is riddled with saddle points in contrast to a low dimensional one. Several algorithms that are employed in optimization of loss surfaces arising in training deep neural networks: RMSPROP, ADAGRAD, Momentum based Gradient Descent, Hessain Free optimization, Conjugate gradient descent, Natural gradient descent, Newtons method and Krylov's subspace method were analyzed for their behaviour around saddle points. 2) In the overfitting paradigm, unsupervised pre-training has been studied for its ability to prevent overfitting and its ability to provide the network with a good initialisation.  
 
 {{< /rawhtml >}}
 </div>

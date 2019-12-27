@@ -1,6 +1,6 @@
 ---
 title: Dynamics of a network of Hodgkin Huxley neurons under a constant external current.
-event: Seminar for the course - Bio-inspired Artificial Intelligence.
+event: Bachelors Independent Project.
 
 
 summary: ""

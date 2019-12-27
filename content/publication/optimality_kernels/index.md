@@ -32,7 +32,7 @@ tags:
 featured: false
 
 links:
-url_pdf: https://arxiv.org/pdf/1912.00458.pdf
+url_pdf: https://arxiv.org/pdf/1912.00458
 #url_project: ''
 
 # Featured image
