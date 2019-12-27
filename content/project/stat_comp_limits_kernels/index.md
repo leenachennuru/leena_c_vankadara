@@ -68,7 +68,7 @@ Unlike in the case of unsupervised learning, kernel methods have been extensivel
 
 #### Preprints:
 
-Vankadara, Leena Chennuru, and Debarghya Ghoshdastidar. "On the optimality of kernels for high-dimensional clustering." arXiv preprint arXiv:1912.00458 (2019).
+C Vankadara, Leena, and Debarghya Ghoshdastidar. "On the optimality of kernels for high-dimensional clustering." arXiv preprint arXiv:1912.00458 (2019).
 
 #### Some References:
 1. Belkin, Mikhail, Siyuan Ma, and Soumik Mandal. "To Understand Deep Learning We Need to Understand Kernel Learning." International Conference on Machine Learning. 2018.
