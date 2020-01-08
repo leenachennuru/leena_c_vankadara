@@ -61,7 +61,7 @@ social:
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "leena.chennuru-vankadara[at]uni-tuebingen.de"
+email: "leena.chennuru-vankadara[at]uni-tuebingen[dot]de"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -71,10 +71,26 @@ user_groups:
 ---
 {{< rawhtml >}}
 <div style="text-align: justify">
+<p>
+I am primarily interested in understanding the limits of learning by answering questions such as when is learning possible and when is it not? Such questions are particularly interesting when posed in constrained settings, for instance, constraints on computational complexity or adversarial robustness.
+</br>
+</br>
+I believe that understanding such fundamental limits foster the design of provably efficient and reliable Machine learning algorithms.
 
-I am a first year Ph.D. candidate in the <a href="https://imprs.is.mpg.de/">International Max Planck Research School for Intelligent Systems</a>. I am jointly supervised by <a href="
-https://www.in.tum.de/tfai/people/debarghya-ghoshdastidar/">Prof.Debarghya Ghoshdastidar</a> at the Theoretical Foundations of Artificial Intelligence group, Technical University of Munich and <a href="
-http://www.tml.cs.uni-tuebingen.de/team/luxburg/index.php">Prof.Dr.Ulrike von Luxburg</a> at the Theory of Machine learning group, University of Tuebingen. For an overview of my current work, please see <a href="https://www.leenacvankadara.com/#projects">my projects.</a>
+For an overview of my current work, please see <a href="https://www.leenacvankadara.com/#projects">my projects.</a>
+</p>
+
+{{< /rawhtml >}}
+</div>
+### Brief Bio:
+
+{{< rawhtml >}}
+<div style="text-align: justify">
+
+I am a first year Ph.D. candidate in the <a href="https://imprs.is.mpg.de/">International Max Planck Research School for Intelligent Systems</a>.
+
+I am jointly supervised by <a href="https://www.in.tum.de/tfai/people/debarghya-ghoshdastidar/">Prof.Debarghya Ghoshdastidar</a> at the Theoretical Foundations of Artificial Intelligence group, Technical University of Munich and <a href="
+http://www.tml.cs.uni-tuebingen.de/team/luxburg/index.php">Prof.Dr.Ulrike von Luxburg</a> at the Theory of Machine learning group, University of Tuebingen.
 
 {{< /rawhtml >}}
 </div>
