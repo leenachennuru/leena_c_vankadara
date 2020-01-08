@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Dancing"
+
+# Optional Google font URL
+google_fonts = "Dancing+Script"
+
+# Font families
+heading_font = "Lora"
+body_font = "Dancing Script"
+nav_font = "Lora"
+mono_font = "Roboto Mono"

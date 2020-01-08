@@ -69,19 +69,11 @@ user_groups:
 - Researchers
 - Visitors
 ---
-{{< rawhtml >}}
-<div style="text-align: justify">
-<p>
-I am primarily interested in understanding the limits of learning by answering questions such as when is learning possible and when is it not? Such questions are particularly interesting when posed in constrained settings, for instance, constraints on computational complexity or adversarial robustness.
-</br>
-</br>
-I believe that understanding such fundamental limits foster the design of provably efficient and reliable Machine learning algorithms.
 
-For an overview of my current work, please see <a href="https://www.leenacvankadara.com/#projects">my projects.</a>
-</p>
+My primary interests lie in understanding the limits of learning by trying to answer questions such as when is learning possible and when is it not? Such questions are particularly interesting when posed in constrained settings, for instance, constraints on computational complexity or adversarial robustness.
 
-{{< /rawhtml >}}
-</div>
+I believe that understanding such fundamental limits foster the design of provably efficient and reliable Machine learning methods. For an overview of my current work, please see <a href="https://www.leenacvankadara.com/#projects">my projects.</a>
+
 ### Brief Bio:
 
 {{< rawhtml >}}
