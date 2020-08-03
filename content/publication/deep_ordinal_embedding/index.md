@@ -1,8 +1,9 @@
 ---
-title: "Large scale representation learning from triplet comparisons"
+title: "Large scale ordinal embedding: training neural networks with structure-free inputs"
 authors:
-- admin
-- Siavash Haghiri
+- admin *
+- Siavash Haghiri *
+- Faiz Ul Wahab
 - Ulrike von Luxburg
 date: "2019-09-01T00:00:00Z"
 doi: ""
@@ -20,7 +21,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: "A pre-print"
 
-abstract: In this work, we study the fundamental problem of representation learning from a new perspective. It has been observed in many supervised OR unsupervised DNNs that the final layer of the network often provides an informative representation for many tasks, even though the network has been trained to perform a particular task. The common ingredient in all previous studies is a low-level feature representation for items, for example, RGB values of images in the image context. In the present work, we assume that no meaningful representation of the items is given. Instead, we are provided with the answers to some triplet comparisons of the following form - Is item A more similar to item B or item C? We provide a fast algorithm based on DNNs that constructs a Euclidean representation for the items, using solely the answers to the above-mentioned triplet comparisons. This problem has been studied in a sub-community of machine learning by the name "Ordinal Embedding". Previous approaches to the problem are painfully slow and cannot scale to larger datasets. We demonstrate that our proposed approach is significantly faster than available methods, and can scale to real-world large datasets. Thereby, we also draw attention to the less explored idea of using neural networks to directly, approximately solve non-convex, NP-hard optimization problems that arise naturally in unsupervised learning problems.
+abstract: In this paper, we discuss the fundamental problem of representation learning when no explicit representation of the input items (for example, RGB images) is accessible. All we are provided with are the answers to triplet comparisons of the following form: Is item A closer to item B than to item C? Existing approaches to this problem, which is also called ordinal embedding, are painfully slow and cannot embed more than an order of 1000 items in a reasonable amount of time. We use a feedforward network architecture as a basis of an ordinal embedding method that works on any given set of triplet comparisons. Our algorithm is significantly faster than the existing state of the art approaches and to date is the only approach that can scale to large real-world datasets. Our paper also features a somewhat unconventional way to use neural networks in a discrete setup: we do not use any input representation beyond the index of the item, yet achieve compelling results.
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -38,7 +39,7 @@ url_pdf: https://arxiv.org/abs/1912.01666
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: '2D embedding of Imagenet'
+  caption: 'Reconstructing 2D datasets using triplets'
   focal_point: ""
   preview_only: false
 
