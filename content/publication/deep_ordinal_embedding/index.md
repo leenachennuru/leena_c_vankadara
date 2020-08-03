@@ -1,7 +1,7 @@
 ---
 title: "Large scale ordinal embedding: training neural networks with structure-free inputs"
 authors:
-- admin *
+- Leena C Vankadara *
 - Siavash Haghiri *
 - Faiz Ul Wahab
 - Ulrike von Luxburg
@@ -21,7 +21,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: "A pre-print"
 
-abstract: In this paper, we discuss the fundamental problem of representation learning when no explicit representation of the input items (for example, RGB images) is accessible. All we are provided with are the answers to triplet comparisons of the following form: Is item A closer to item B than to item C? Existing approaches to this problem, which is also called ordinal embedding, are painfully slow and cannot embed more than an order of 1000 items in a reasonable amount of time. We use a feedforward network architecture as a basis of an ordinal embedding method that works on any given set of triplet comparisons. Our algorithm is significantly faster than the existing state of the art approaches and to date is the only approach that can scale to large real-world datasets. Our paper also features a somewhat unconventional way to use neural networks in a discrete setup: we do not use any input representation beyond the index of the item, yet achieve compelling results.
+abstract: In this paper, we discuss the fundamental problem of representation learning when no explicit representation of the input items (for example, RGB images) is accessible. All we are provided with are the answers to triplet comparisons of the following form - Is item A closer to item B than to item C? Existing approaches to this problem, which is also called ordinal embedding, are painfully slow and cannot embed more than an order of 1000 items in a reasonable amount of time. We use a feedforward network architecture as a basis of an ordinal embedding method that works on any given set of triplet comparisons. Our algorithm is significantly faster than the existing state of the art approaches and to date is the only approach that can scale to large real-world datasets. Our paper also features a somewhat unconventional way to use neural networks in a discrete setup - we do not use any input representation beyond the index of the item, yet achieve compelling results.
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
