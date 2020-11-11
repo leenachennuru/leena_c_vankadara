@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Research intern"
+  company = "Amazon DE"
+  company_url = "https://www.amazon.de/#ace-1201215828"
+  location = "Tuebingen, Germany"
+  date_start = "2020-09-15"
+  date_end = ""
+  description = """ We are theoretically investigating the question of when good statistical models also make good causal models, particularly for time varying stochastic processes.
+  """
+
+[[experience]]
   title = "PhD Candidate"
   company = "International Max Planck Research School for Intelligent Systems"
   company_url = ""
