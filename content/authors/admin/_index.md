@@ -20,11 +20,12 @@ organizations:
   url: "http://www.tml.cs.uni-tuebingen.de/team/leena_chennuru/index.php"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a first year Ph.D. candidate in the area of Statistical learning theory.
+bio: I am a Ph.D. candidate in the area of Statistical learning theory.
 
 interests:
 - Statistical vs computational limits of learning,
-- Learning theory,
+- Theory of over-parameterized learning,
+- Causality
 - Kernel machines,
 - Concentration inequalities,
 - Non-parametric statistics.
@@ -33,7 +34,7 @@ interests:
 education:
   courses:
   - course: PhD in Statistical learning theory
-    institution: International Max Planck Research School for Intelligent Systems.
+    institution: University of Tuebingen, International Max Planck Research School for Intelligent Systems.
     year: since December 2018.
   - course: Masters in Intelligent Adaptive Systems
     institution: University of Hamburg.
@@ -79,7 +80,7 @@ I believe that understanding such fundamental limits foster the design of provab
 {{< rawhtml >}}
 <div style="text-align: justify">
 
-I am a first year Ph.D. candidate in the <a href="https://imprs.is.mpg.de/">International Max Planck Research School for Intelligent Systems</a>.
+I am a Ph.D. candidate in the <a href="https://imprs.is.mpg.de/">International Max Planck Research School for Intelligent Systems</a>.
 
 I am jointly supervised by <a href="https://www.in.tum.de/tfai/people/debarghya-ghoshdastidar/">Prof.Debarghya Ghoshdastidar</a> at the Theoretical Foundations of Artificial Intelligence group, Technical University of Munich and <a href="
 http://www.tml.cs.uni-tuebingen.de/team/luxburg/index.php">Prof.Dr.Ulrike von Luxburg</a> at the Theory of Machine learning group, University of Tuebingen.
