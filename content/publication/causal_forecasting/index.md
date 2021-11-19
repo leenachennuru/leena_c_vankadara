@@ -41,7 +41,7 @@ url_pdf: https://arxiv.org/pdf/2111.09831.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'AR(2) DAG under atomic interventions'
+  caption: 'AR(2) DAG under interventions'
   focal_point: ""
   preview_only: false
 
