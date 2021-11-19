@@ -23,12 +23,11 @@ organizations:
 bio: I am a Ph.D. candidate in the area of Statistical learning theory.
 
 interests:
-- Statistical vs computational limits of learning,
 - Theory of over-parameterized learning,
 - Causality
 - Kernel machines,
 - Concentration inequalities,
-- Non-parametric statistics.
+- Statistical vs computational limits of learning.
 
 
 education:
