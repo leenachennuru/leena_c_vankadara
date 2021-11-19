@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Tuebingen, Germany"
   date_start = "2020-09-15"
   date_end = ""
-  description = """ We are theoretically investigating the question of when good statistical models also make good causal models, particularly for time varying stochastic processes.
+  description = """During this internship, I was fortunate to work with Dominik Janzing in the Causality team. We theoretically investigated the question of when good statistical forecasting models also make good causal models. You can find the paper we wrote on this topic [here](https://www.leenacvankadara.com/publication/causal_forecasting).
   """
 
 [[experience]]
