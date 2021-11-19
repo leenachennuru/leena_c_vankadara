@@ -19,8 +19,8 @@ publishDate: "2021-12-18T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv:2111.09831"
-publication_short: "arXiv:2111.09831"
+publication: "arXiv - 2111.09831"
+publication_short: "arXiv - 2111.09831"
 
 abstract: Despite the increasing relevance of forecasting methods, the causal implications of these algorithms remain largely unexplored. This is concerning considering that, even under simplifying assumptions such as causal sufficiency, the statistical risk of a model can differ significantly from its *causal risk*. Here, we study the problem of *causal generalization* -- generalizing from the observational to interventional distributions -- in forecasting. Our goal is to find answers to the question - How does the efficacy of an autoregressive (VAR) model in predicting statistical associations compare with its ability to predict under interventions?
 To this end, we introduce the framework of *causal learning theory* for forecasting. Using this framework, we obtain a characterization of the difference between statistical and causal risks, which helps identify sources of divergence between them. Under causal sufficiency, the problem of causal generalization amounts to learning under covariate shifts albeit with additional structure (restriction to interventional distributions). This structure allows us to obtain uniform convergence bounds on causal generalizability for the class of VAR models. To the best of our knowledge, this is the first work that provides theoretical guarantees for causal generalization in the time-series setting.
