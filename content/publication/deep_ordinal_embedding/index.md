@@ -29,8 +29,8 @@ abstract: The objective of ordinal embedding is to find a Euclidean representati
 tags:
 - deep learning
 - unsupervised learning
-- Large scale Learning
--
+- Large scale learning
+- Comparison based learning
 featured: false
 
 links:
