@@ -70,9 +70,9 @@ user_groups:
 - Visitors
 ---
 
-My primary interests lie in understanding the limits of learning by trying to answer questions such as when is learning possible and when is it not? Such questions are particularly interesting when posed in constrained settings, for instance, constraints on computational complexity or adversarial robustness.
+My broad interests lie in understanding the limits of learning by trying to answer questions such as when is learning possible and when is it not under certain model assumptions? Such questions are particularly interesting when posed in constrained settings, for instance, constraints on computational complexity or adversarial robustness. Understanding such fundamental limits foster the design of provably efficient and reliable Machine learning methods.
 
-I believe that understanding such fundamental limits foster the design of provably efficient and reliable Machine learning methods. For an overview of my current work, please see <a href="https://www.leenacvankadara.com/#projects">my projects.</a>
+More recently, I have been fascinated with statistical and causal properties of interpolating estimators in overparameterized model classes. You can find our recent work on this topic <a href="https://www.leenacvankadara.com/#publications/interpolation_causal_learning/">here.</a> For a general overview of my work, please see <a href="https://www.leenacvankadara.com/#publications">my publications.</a>
 
 ### Brief Bio:
 
